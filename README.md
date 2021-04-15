@@ -1,9 +1,12 @@
 # Applied-Graphical-Network-Analysis-using-Python
 In this project we have analyzed the Nashville-meetup network.
 meetup.com is a website for people organizing and attending regular or semi-regular events ("meet-ups"). The relationships amongst users—who goes to what meetups—are a social network, ideal for graph-based analysis.
-We have analyzed the Nashville-meetup network to determine the following results 
+We have analyzed the Nashville-meetup network to determine the following results:
+
 •Who are the people who most influence the network?
+
 •Who are the people who influence the transfer of information?
+
 •Which are the best performers in information transfer?
 
 To assign roles and make categories between individuals we will calculate mathematical indicators from the theory of complex graphs:
